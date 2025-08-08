@@ -1,0 +1,15 @@
+# This .gitkeep file ensures the screenshots directory is tracked by Git
+# 
+# This directory is intended to store screenshots and images for:
+# - Application interface demonstrations
+# - Workflow visualizations
+# - Architecture diagrams
+# - User interface mockups
+# - Documentation assets
+#
+# Files in this directory should include:
+# - gradio-app-interface.png
+# - workflow-diagram.png
+# - architecture-overview.png
+# - dashboard-screenshot.png
+# - notification-examples.png
